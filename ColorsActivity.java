@@ -16,7 +16,7 @@ public class ColorsActivity extends AppCompatActivity {
         ArrayList<Word> words = new ArrayList<Word>();
         words.add(new Word("red","weṭeṭṭi",R.drawable.color_red));
         words.add(new Word("green","chokokki",R.drawable.color_green));
-        words.add(new Word("brown","ṭakaakki",R.drawable.color_green));
+        words.add(new Word("brown","ṭakaakki",R.drawable.color_brown));
         words.add(new Word("gray","ṭopoppi",R.drawable.color_gray));
         words.add(new Word("black","kululli",R.drawable.color_black));
         words.add(new Word("white","kelelli",R.drawable.color_white));
